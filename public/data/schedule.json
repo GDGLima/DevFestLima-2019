@@ -1,36 +1,36 @@
 [
     {
-        "time":"08.00 AM - 08.20 AM",
+        "time":"08:00 AM - 08:30 AM",
         "detail":"Registro"
     },
     {
-        "time":"08:20 AM - 08:30 AM",
-        "detail":"Presentación del evento: GDG Lima / Crehana"
+        "time":"08:30 AM - 09:20 AM",
+        "detail":"Go Serverless with Google Cloud! - Grant Timmerman"
     },
     {
-        "time":"08:40 AM - 09:30 AM",
-        "detail":" Go Serverless with Google Cloud! - Grant Timmerman"
+        "time":"09:30 AM - 09:40 AM",
+        "detail":"Presentación Crehana"
     },
     {
-        "time":"09:40 AM - 10:10 PM",
-        "detail":""
+        "time":"09:40 AM - 10:10 AM",
+        "detail":"Presentación GDG Lima"
     },
     {
-        "time":"10.15 PM - 11.05 PM",
+        "time":"10:15 PM - 11:05 PM",
         "detail":"Como hacemos Big Data en Google - Manuel Rodriguez"
     },
     {
-        "time":"11.10 PM - 11.50 PM",
+        "time":"11:10 AM - 11:50 AM",
         "detail":"Building ML things with Tensorflow - Victoria Alejandra Ubaldo Gamarra",
         "detail1": "An introduction to Kotlin Coroutines (Android) - Geferson Pillaca"
     },
     {
-        "time":"11.55 PM - 12.35 PM",
+        "time":"11:55 AM - 12:35 PM",
         "detail":"Jetpack Composer Design (Android) - Carlos Piñan",
         "detail1":"I'm remarkable - Melissa Gave"
     },
     {
-        "time":"12.45 PM - 14.00 PM ",
+        "time":"12:45 PM - 14:00 PM ",
         "detail":"Almuerzo"
     },
     {

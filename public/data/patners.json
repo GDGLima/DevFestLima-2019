@@ -1,24 +1,18 @@
 {
-    "title":"Our Patners",
-    "description":"Interested in becoming a sponsor? Contact us at gdgjalandhar@gmail.com for opportunities to be showcased throughout the event.",
+    "title":"Nuestros Patrocinadores",
+    "description":"¿Interesado en ser un patrocinador? Póngase en contacto con nosotros en gdg.lima@gmail.com para ver las oportunidades que se mostrarán durante el evento.",
     "patnersName" : [
         {
             "name":"Google Developers Groups",
             "URL":"https://developers.google.com/groups/",
-            "PatnerImg":"assets/img/patners/GDG-program-logo.png",
-            "width":"160h"
+            "PatnerImg":"assets/img/patners/GDG-program-logo3.png",
+            "width":"240h"
         },
         {
-            "name":"WomenTechmakers",
-            "URL":"https://www.womentechmakers.com/",
-            "PatnerImg":"assets/img/patners/WT_logo_horizontal_pos.png",
-            "width":"280h"
-        },
-        {
-            "name":"Mozilla Developers Community",
-            "URL":"https://www.facebook.com/MDCJalandhar/",
-            "PatnerImg":"assets/img/patners/mozilla.png",
-            "width":"140h"
+            "name":"Crehana",
+            "URL":"https://www.crehana.com/pe/",
+            "PatnerImg":"assets/img/patners/crehana-logo2.png",
+            "width":"240h"
         }
     ]    
 } 

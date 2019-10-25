@@ -38,10 +38,6 @@
         {
             "linkName" : "Call for Speaker",
             "link" : "gdg.lima@gmail.com"
-        },
-        {
-            "linkName" : "Media Kit",
-            "link" : "https://drive.google.com/drive/folders/16rHDaHbuS_YApMWgJHUxygpd-A5gCkLK"
         }
     ],
     "DevConsole" : [
@@ -63,13 +59,5 @@
         }
     ],
     "footerEndSection" : [
-        {
-            "linkName" : "Code of Conduct",
-            "link" : "https://docs.google.com/document/d/1Wz_w6Z7usMnXKFMpOY4IPbA35twK7Uc4CAxScGDiwOk/edit"
-        },
-        {
-            "linkName" : "Terms & Servies",
-            "link" : "https://docs.google.com/document/d/14g3fv9NItiB8Hd-YGYyVYd2N4LRxe6Bx3syWse_wsiA/edit?usp=sharing"
-        }
     ]
 }

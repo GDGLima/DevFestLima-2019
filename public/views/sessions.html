@@ -14,10 +14,10 @@
         <div class="col-md-10 offset-md-1 pl-1">
             <ul class="nav md-tabs mx-0 mb-0 mt-1 mb-1 p-0">
                 <li class="nav-item active-bar" id="showSessionID" >
-                    <a class="nav-link google-font" ng-click="showSession()" ><b>Sessions</b></a>
+                    <a class="nav-link google-font" ng-click="showSession()" ><b>Sesiones</b></a>
                 </li>
                 <li class="nav-item inactive-bar" id="showScheduleID" >
-                    <a class="nav-link google-font" ng-click="showSchedule()" ><b>Schedule</b></a>
+                    <a class="nav-link google-font" ng-click="showSchedule()" ><b>Programa</b></a>
                 </li>
             </ul>
         </div>
@@ -32,11 +32,11 @@
                
                 <div class="row pt-5">
                     <div class="col-md-8">
-                        <h3 style="font-family: google-sans;color: #1a73e8;" class="animated fadeInUp">Sessions</h3>
+                        <h3 style="font-family: google-sans;color: #1a73e8;" class="animated fadeInUp">Sesiones</h3>
                         <br>
-                        <p style="font-family: google-sans" class="animated fadeInUp">Hone your skills. Ask technical questions. Get inspired. This year’s program is packed with breakouts, keynotes, spotlights, panels, and bootcamps.</p>
+                        <!--<p style="font-family: google-sans" class="animated fadeInUp">Hone your skills. Ask technical questions. Get inspired. This year’s program is packed with breakouts, keynotes, spotlights, panels, and bootcamps.</p>-->
 
-                        <p style="font-family: google-sans" class="animated fadeInUp">Check back often as we continue to add new sessions.</p>
+                        <p style="font-family: google-sans" class="animated fadeInUp">Sesiones DevFest Lima 2019</p>
                     </div>
                 </div>
 
@@ -46,7 +46,7 @@
 
                             <div class="col-md-3 col-sm-6 mt-4" ng-repeat="sedt in sessionsData">
                                 <div class="white p-3 pt-4" style="border-color:#e0e0e0;border-width: 1px;border-style: solid;border-radius: 8px;height:100%">
-                                    <img src="assets/img/gdg logo.svg" alt="GDG Logo" width="30vh" style="background:#fafafa;border-radius: 2px;" class="mb-3">
+                                    <img src="assets/img/patners/gdg.png" alt="GDG Logo" width="30vh" style="background:#fafafa;border-radius: 2px;" class="mb-3">
                                     <h5 style="font-family: google-sans;">{{sedt.title}}</h5>
                                     <p>{{sedt.des}}</p>
                                 </div>
@@ -67,18 +67,18 @@
                 
                 <div class="row pt-5">
                     <div class="col-md-8">
-                        <h3 style="font-family: google-sans;color: #1a73e8;" class="animated fadeInUp">Schedule</h3>
+                        <h3 style="font-family: google-sans;color: #1a73e8;" class="animated fadeInUp">Programa</h3>
                         <br>
-                        <p style="font-family: google-sans" class="animated fadeInUp">Hone your skills. Ask technical questions. Get inspired. This year’s program is packed with breakouts, keynotes, spotlights, panels, and bootcamps.</p>
+                        <!--<p style="font-family: google-sans" class="animated fadeInUp">Hone your skills. Ask technical questions. Get inspired. This year’s program is packed with breakouts, keynotes, spotlights, panels, and bootcamps.</p>-->
 
-                        <p style="font-family: google-sans" class="animated fadeInUp">Check back often as we continue to add new sessions.</p>
+                        <p style="font-family: google-sans" class="animated fadeInUp">Programa DevFest Lima 2019</p>
                     </div>
                     <div class="col-md-4"> 
-                        <div class="md-form animated fadeInUp">
-                            <input type="text" id="materialLoginFormEmail" class="form-control" ng-model="search">
+                        <!--<div class="md-form animated fadeInUp">
+                        <input type="text" id="materialLoginFormEmail" class="form-control" ng-model="search">
                             <label for="materialLoginFormEmail"><i class="fa fa-search" aria-hidden="true"></i> Search inside Schedule</label>
                             <small>All times are Indian Standard Time (UTC+05:30)</small>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
 
@@ -123,6 +123,7 @@
             <br>
             <div ng-repeat="pd in patData.patnersName">
                 <a href="{{pd.URL}}" class="mb-5"><img src="{{pd.PatnerImg}}" width="{{pd.width}}" title="{{pd.name}}"></a>
+                <div class="space"/>
             </div>
             <br>
             <br>

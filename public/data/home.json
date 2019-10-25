@@ -1,6 +1,6 @@
 {
     "theme-title" : "",
-    "eventName" : "GDG DevFest Lima'19",
+    "eventName" : "GDG DevFest Lima '19",
     "ytvideo" : "https://www.youtube.com/watch?v=-ccY4i0J5S4",
     "devfest18DetailsSmall" : "GDG DevFest Lima 2019  es un evento organizado por el GDG Lima. Este 2019 reuniremos a los mejores en Android, Cloud, Web UI, Firebase y Artificial Intelligence (AI) en un día lleno de sesiones, networking y exhibiciones. Únete a nuestra celebración de comunidad para comunidad.",
     "eventMeetupLink" : "https://www.meetup.com/es-ES/gdglima/events/265429819/",
@@ -41,29 +41,19 @@
     "overviewSection":[
         {
             "title" : "Sessions",
-            "des" : "3 parallel tracks, dedicated to Android, Web and Cloud technologies",
+            "des" : "9 sesiones y 2 ambientes, dedicadas a las tecnologías Android, Web y Cloud",
             "icon" : "fa-microphone"
         },
         {
-            "title" : "Showcases",
-            "des" : "Demo zone with the latest of Google tech: Big Data, face recognition, VR, IoT - all in one place",
-            "icon" : "fa-lightbulb-o"
-        },
-        {
-            "title" : "Workshops",
-            "des" : "3 workshops to get your hands dirty and create a working prototype right during the conference",
-            "icon" : "fa-users"
-        },
-        {
             "title" : "Networking",
-            "des" : "Work hard and enjoy DevFest is the best place to meet new people",
+            "des" : "Trabajar duro y disfrutar de DevFest es el mejor lugar para conocer gente nueva",
             "icon" : "fa-american-sign-language-interpreting"
         }
     ],
     "states":{
-        "title" : "On the edge of Android, Web and Cloud.",
-        "des" : "GDG DevFest Jalandhar brings together people who shape the future of Android, Web and Cloud technologies for 2 days of sessions, workshops and networking. Described by many as 'Google I/O of Jalandhar', our team creates DevFest to be the best place for inspiration and experience sharing.",
-        "previousEventHighlight" : "https://www.youtube.com/watch?v=-ccY4i0J5S4",
+        "title" : "Android, Web y Cloud.",
+        "des" : "DevFest Lima es un evento organizado por el GDG Lima . Este 2019 reuniremos a los mejores en Android, Cloud, Web UI, Firebase y Artificial Intelligence (AI) en un día lleno de sesiones, networking y exhibiciones. Únete a nuestra celebración de comunidad para comunidad.",
+        "previousEventHighlight" : "https://www.facebook.com/pg/gdglima/photos/",
 
         "statistics":[
             {
@@ -89,12 +79,12 @@
         ]
     },
     "speakerSection" : {
-        "title" : "Our lineup of big thinkers and even bigger doers",
-        "des" : "Get ready to be inspired by speakers who are building a cloud full of opportunity with our partners and customers. Stay tuned as we add more dynamic speakers to our lineup." 
+        "title" : "Nuestros Ponentes",
+        "des" : "Prepárese para inspirarse con los oradores que están construyendo una nube llena de oportunidades con nuestros socios y clientes. Manténgase sintonizado a medida que agregamos más altavoces dinámicos a nuestra línea." 
     },
     "sessionsSection" : {
-        "title" : "Our Theme & Sessions",
-        "des" : "At sessions that span from the technical to the visionary, let’s celebrate and discover what the cloud can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us."
+        "title" : "Nuestras Sesiones",
+        "des" : "En sesiones que van desde lo técnico a lo visionario, celebremos y descubramos lo que la nube puede habilitar: cómo la innovación de productos, el código abierto, y el ML y la IA pueden impulsar a las empresas y resolver los grandes problemas que nos afectan a todos."
     }
     
 }
