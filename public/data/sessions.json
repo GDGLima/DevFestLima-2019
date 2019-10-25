@@ -1,58 +1,39 @@
 [
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Go Serverless with Google Cloud!",
+        "des":"Go Serverless with Google Cloud! - Grant Timmerman"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Como hacemos Big Data en Google",
+        "des":"Como hacemos Big Data en Google - Manuel Rodriguez"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Building ML things with Tensorflow",
+        "des":"Compartir lecciones aprendidas y prácticas en la construcción de aplicaciones con Tensorflow, biblioteca open source para aprendizaje automático. - Victoria Alejandra Ubaldo Gamarra"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"An introduction to Kotlin Coroutines (Android)",
+        "des":"Las corrutinas es una de las características más interesantes de Kotlin que puede simplificar el trabajo de las tareas asíncronas. En esta charla veremos una introducción a Kotlin Coroutines y cómo escribir código asíncrono de forma secuencial en el desarrollo de aplicaciones Android. - Geferson Pillaca"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Jetpack Composer Design (Android)",
+        "des":"Veremos uno de los componentes de Jetpack que esta en pre-alpha el @Composer. Veremos ejemplos, viabilidad y comparaciones. - Carlos Piñan"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
-    },{
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"I'm remarkable",
+        "des":"I'm Reemarkable es una iniciativa de Google que capacita a las mujeres para celebrar sus logros en el lugar de trabajo y más allá. Nuestros objetivos se basan en mejorar la motivación y las habilidades de autopromoción de las mujeres  Desafiar la percepción social en torno a la autopromoción. Taller: Solo para mujeres - Melissa Gave"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Buenas prácticas para crear tu propia paleta de colores en Flutter",
+        "des":"Los gestores de estados necesitan compartir data entre varios widgets (ancestros y descendientes). Todos están basados en InheritedWidget. Un widget tan potente como poco usado (explícitamente) por los desarrolladores, pero está en todos lados. - Frank Andre Moreno Vera"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Building and Consuming a JSON API with Rails and React",
+        "des":"Crear y consumir APIs siguiendo JSON:API spec con Ruby on Rails y React.js - Kattya Cuevas"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Bootiful Spring Cloud GCP",
+        "des":"Las aplicaciones que desarrollamos necesitan ejecutarse en algún lugar, y no hay mejor lugar que la nube! Ya que nuestras aplicaciones necesitan almacenamiento, base de datos y una arquitectura que escale y sea resiliente. No es tarea fácil! Afortunadamente, Spring ofrece integraciones con los servicios de GCP como: Config, Cloud SQL, Spanner, Pub/Sub, Stackdriver. En esta charla, construiremos una aplicación en Spring haciendo uso de las bondades de Google Cloud Platform. - Eddú Meléndez Gonzales"
     }
     
 ]

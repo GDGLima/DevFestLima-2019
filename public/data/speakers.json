@@ -1,37 +1,47 @@
 [
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "name":"Grant Timmerman",
+        "company":"Google",
+        "profileImg":"assets/img/speakers/grant.jpeg"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "name":"Manuel Rodriguez",
+        "company":"Google",
+        "profileImg":"assets/img/speakers/manueL_rodriguez.jpg"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "name":"Victoria Alejandra Ubaldo Gamarra",
+        "company":"Women Techmakers Lima",
+        "profileImg":"assets/img/speakers/victoria_ubaldo380.jpg"
     },
       {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "name":"Geferson Pillaca",
+        "company":"Fandango Latam",
+        "profileImg":"assets/img/speakers/geferson_pg380.jpg"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "name":"Carlos Piñan",
+        "company":"Belatrix",
+        "profileImg":"assets/img/speakers/carlos_pinan380.jpg"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "name":"Frank Andre Moreno Vera",
+        "company":"Mandü",
+        "profileImg":"assets/img/speakers/frank_moreno.jpeg"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "name":"Eddú Meléndez Gonzales",
+        "company":"PeruJUG",
+        "profileImg":"assets/img/speakers/eddu_melendez.jpg"
+    },
+    {
+        "name":"Kattya Cuevas",
+        "company":"Able.co",
+        "profileImg":"assets/img/speakers/kattya_cuevas.jpg"
+    },
+     {
+        "name":"Melissa Gave",
+        "company":"GDGLima | Women Techmakers Lima",
+        "profileImg":"assets/img/speakers/melissa_gave380.jpg"
     }
 ]

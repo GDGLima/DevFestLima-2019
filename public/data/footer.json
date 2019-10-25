@@ -1,18 +1,17 @@
-{   "chaperName" : "GDG Jalandhar",
+{   "chaperName" : "GDG Lima",
     "chapterSocialMediaLinks": {
-        "facebook" : "https://www.facebook.com/GDGJalandhar/",
-        "googlePlus" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
+        "facebook" : "https://www.facebook.com/gdglima/",
         "twitter" : "https://twitter.com/gdgjalandhar",
-        "meetup" : "https://www.meetup.com/GDG-Jalandhar/",
+        "meetup" : "https://www.meetup.com/es-ES/gdglima/",
         "youtube" : "",
         "slack" : "",
         "linkedin" : "",
-        "github" : ""
+        "github" : "https://github.com/GDGLima"
     },
     "aboutSection":[
         {
-            "linkName" : "GDG Jalandhar",
-            "link" : "http://gdgjalandhar.com/"
+            "linkName" : "GDG Lima",
+            "link" : "http://gdglima.com/"
         },
         {
             "linkName" : "Google Developers Groups",
@@ -24,21 +23,21 @@
         },
         {
             "linkName" : "Meet the Team",
-            "link" : "https://gdgjalandhar.com/#/team"
+            "link" : "https://gdglima.com/"
         },
         {
             "linkName" : "Become a Member",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/"
+            "link" : "https://www.meetup.com/es-ES/gdglima"
         }
     ],
     "eventResourcesSection" : [
         {
             "linkName" : "Become a Sponsor",
-            "link" : "gdgjalandhar@gmail.com"
+            "link" : "gdg.lima@gmail.com"
         },
         {
             "linkName" : "Call for Speaker",
-            "link" : "gdgjalandhar@gmail.com"
+            "link" : "gdg.lima@gmail.com"
         },
         {
             "linkName" : "Media Kit",

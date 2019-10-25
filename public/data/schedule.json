@@ -1,35 +1,50 @@
 [
     {
-        "time":"09.00 AM - 09.45 AM",
-        "detail":"Registration"
+        "time":"08.00 AM - 08.20 AM",
+        "detail":"Registro"
     },
     {
-        "time":"10.00 AM - 10.15 AM",
-        "detail":"Welcome Keynote"
+        "time":"08:20 AM - 08:30 AM",
+        "detail":"Presentación del evento: GDG Lima / Crehana"
     },
     {
-        "time":"10.15 AM - 11.00 AM",
-        "detail":"Session 1"
+        "time":"08:40 AM - 09:30 AM",
+        "detail":" Go Serverless with Google Cloud! - Grant Timmerman"
     },
     {
-        "time":"11.00 AM - 12.00 PM",
-        "detail":"Session 2"
+        "time":"09:40 AM - 10:10 PM",
+        "detail":""
     },
     {
-        "time":"12.00 PM - 01.00 PM",
-        "detail":"Session 3"
+        "time":"10.15 PM - 11.05 PM",
+        "detail":"Como hacemos Big Data en Google - Manuel Rodriguez"
     },
     {
-        "time":"01.00 PM - 02.00 PM",
-        "detail":"Session 4"
+        "time":"11.10 PM - 11.50 PM",
+        "detail":"Building ML things with Tensorflow - Victoria Alejandra Ubaldo Gamarra",
+        "detail1": "An introduction to Kotlin Coroutines (Android) - Geferson Pillaca"
     },
     {
-        "time":"03.00 PM - 04.00 PM",
-        "detail":"Session 5"
+        "time":"11.55 PM - 12.35 PM",
+        "detail":"Jetpack Composer Design (Android) - Carlos Piñan",
+        "detail1":"I'm remarkable - Melissa Gave"
     },
     {
-        "time":"04.00 PM - 05.00 PM ",
-        "detail":"Session 6"
+        "time":"12.45 PM - 14.00 PM ",
+        "detail":"Almuerzo"
+    },
+    {
+        "time":"14:00 PM - 14:50 PM ",
+        "detail":"Buenas prácticas para crear tu propia paleta de colores en Flutter - Frank Andre Moreno Vera"
+    },
+    {
+        "time":"15:00 PM - 15:50 PM ",
+        "detail":"Bootiful Spring Cloud GCP - Eddú Meléndez Gonzales",
+        "detail1":"Building and Consuming a JSON API with Rails and React - Kattya Cuevas"
+    },
+     {
+        "time":"15:50 PM - 16:00 PM ",
+        "detail":"Cierre del evento"
     }
 
 ]

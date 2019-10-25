@@ -1,45 +1,40 @@
 {
     "theme-title" : "",
-    "eventName" : "GDG DevFest'18",
-    "ytvideo" : "https://www.youtube.com/embed/Osn5Y6N5rG0",
-    "devfest18DetailsSmall" : "GDG DevFest Jalandhar 2018 are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies.",
-    "eventMeetupLink" : "https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "eventDate" : "13th & 14 Oct 2018",
-    "eventTime" : "09 am to 5.30 pm",
-    "eventVenue" : "Lovely Professional University",
+    "eventName" : "GDG DevFest Lima'19",
+    "ytvideo" : "https://www.youtube.com/watch?v=-ccY4i0J5S4",
+    "devfest18DetailsSmall" : "GDG DevFest Lima 2019  es un evento organizado por el GDG Lima. Este 2019 reuniremos a los mejores en Android, Cloud, Web UI, Firebase y Artificial Intelligence (AI) en un día lleno de sesiones, networking y exhibiciones. Únete a nuestra celebración de comunidad para comunidad.",
+    "eventMeetupLink" : "https://www.meetup.com/es-ES/gdglima/events/265429819/",
+    "eventDate" : "26th Oct 2019",
+    "eventTime" : "08:00 am to 4:30 pm",
+    "eventVenue" : "CREHANA",
     "hashTag" : [
         {
-            "name" : "#GDGJalandhar"
+            "name" : "#GDGLima"
         },
         {
-            "name" : "#WTMJalandhar"
+            "name" : "#DevFestLima"
         },
         {
             "name" : "#GDG"
         },
         {
-            "name" : "#WTM"
+            "name" : "#DevFest"
         }
     ],
     "socialLinks":[
         {
             "name" : "facebook",
-            "link" : "https://www.facebook.com/GDGJalandhar/",
+            "link" : "https://www.facebook.com/gdglima/",
             "icon" : "fa-facebook"
         },
         {
-            "name" : "googleplus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fa-google-plus"
-        },
-        {
             "name" : "twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
+            "link" : "https://twitter.com/gdglima",
             "icon" : "fa-twitter"
         },
         {
             "name" : "meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
+            "link" : "https://www.meetup.com/es-ES/gdglima/",
             "icon" : "fa-meetup"
         }
     ],
@@ -68,7 +63,7 @@
     "states":{
         "title" : "On the edge of Android, Web and Cloud.",
         "des" : "GDG DevFest Jalandhar brings together people who shape the future of Android, Web and Cloud technologies for 2 days of sessions, workshops and networking. Described by many as 'Google I/O of Jalandhar', our team creates DevFest to be the best place for inspiration and experience sharing.",
-        "previousEventHighlight" : "https://www.youtube.com/watch?v=O46SRrFxR4c",
+        "previousEventHighlight" : "https://www.youtube.com/watch?v=-ccY4i0J5S4",
 
         "statistics":[
             {
