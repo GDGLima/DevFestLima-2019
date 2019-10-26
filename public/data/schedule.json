@@ -30,20 +30,21 @@
         "detail1":"I'm remarkable - Melissa Gave"
     },
     {
-        "time":"12:45 PM - 14:00 PM ",
+        "time":"12:45 PM - 14:00 PM",
         "detail":"Almuerzo"
     },
     {
         "time":"14:00 PM - 14:50 PM ",
-        "detail":"Buenas prácticas para crear tu propia paleta de colores en Flutter - Frank Andre Moreno Vera"
+        "detail":"Buenas prácticas para crear tu propia paleta de colores en Flutter - Frank Andre Moreno Vera",
+        "detail1":"Baby steps on kotlin - Kaya Iriarte Negrón"
     },
     {
-        "time":"15:00 PM - 15:50 PM ",
+        "time":"15:00 PM - 15:50 PM",
         "detail":"Bootiful Spring Cloud GCP - Eddú Meléndez Gonzales",
         "detail1":"Building and Consuming a JSON API with Rails and React - Kattya Cuevas"
     },
      {
-        "time":"15:50 PM - 16:00 PM ",
+        "time":"15:50 PM - 16:00 PM",
         "detail":"Cierre del evento"
     }
 

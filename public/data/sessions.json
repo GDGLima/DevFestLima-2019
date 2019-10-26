@@ -34,6 +34,10 @@
     {
         "title":"Bootiful Spring Cloud GCP",
         "des":"Las aplicaciones que desarrollamos necesitan ejecutarse en algún lugar, y no hay mejor lugar que la nube! Ya que nuestras aplicaciones necesitan almacenamiento, base de datos y una arquitectura que escale y sea resiliente. No es tarea fácil! Afortunadamente, Spring ofrece integraciones con los servicios de GCP como: Config, Cloud SQL, Spanner, Pub/Sub, Stackdriver. En esta charla, construiremos una aplicación en Spring haciendo uso de las bondades de Google Cloud Platform. - Eddú Meléndez Gonzales"
+    },
+    {
+        "title":"Baby steps on kotlin",
+        "des":"Breve introducción a kotlin y alguna guía de donde pueden aprender - https://www.facebook.com/WomenTechMakersSucre/ - Kaya Iriarte Negrón"
     }
     
 ]
